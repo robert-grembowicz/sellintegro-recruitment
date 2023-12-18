@@ -7,7 +7,7 @@ describe('App testing', () => {
     'learn react',
     'edit',
     'src/App.js',
-    'learn React'
+    'and save to reload.'
   ]
 
   it('should renders all texts', () => {
